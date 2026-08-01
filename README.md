@@ -1,0 +1,2 @@
+AI Trip Planner using LangGraph
+An AI-powered travel planning assistant built with LangGraph that generates personalized itineraries, recommends destinations, and optimizes travel plans based on user preferences.
